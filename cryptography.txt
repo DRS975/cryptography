@@ -25,4 +25,4 @@ This tool supports the following options:
 
 
 HOW TO USE#####################################################################
-To use this tool, save the code to a file named cryptography.py, and then run it from the command line using python cryptography.py followed by the desired options and arguments.
+To use this tool, save the code to a file named drscryptography.py, and then run it from the command line using python cryptography.py followed by the desired options and arguments.
